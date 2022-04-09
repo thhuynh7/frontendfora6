@@ -4,8 +4,8 @@
  *  No part of this assignment has been copied manually or electronically from any other source
  *  (including web sites) or distributed to other students.
  *
- *  Name: Thai Hoa Huynh - Student ID: 114968191 - Date: 25/03/2022
- *  Angular App (Deployed) Link: 
+ *  Name: Thai Hoa Huynh - Student ID: 114968191 - Date: 08/04/2022
+ *  Angular App (Deployed) Link: https://frontendforweb4220.netlify.app/
  *  User API (Heroku) Link: https://backendfora6.herokuapp.com/api/user/favourites
  ********************************************************************************/
 
