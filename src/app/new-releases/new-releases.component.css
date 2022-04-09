@@ -1,0 +1,7 @@
+a {
+  text-decoration: none;
+}
+
+mat-chip:hover {
+  background-color: lightgreen;
+}

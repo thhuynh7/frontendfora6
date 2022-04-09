@@ -1,0 +1,12 @@
+a {
+  text-decoration: none;
+}
+
+mat-chip:hover {
+  background-color: lightgreen;
+}
+
+mat-list mat-icon:hover {
+  cursor: pointer;
+  background-color: lightgreen;
+}
